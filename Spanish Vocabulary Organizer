@@ -1,0 +1,24 @@
+<!-- Note Taking App -->
+<!doctype html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: lightblue;
+            }
+            p {
+                font-style: italic;
+                background-color: gold;
+            }
+        </style>
+    </head>
+    <body>
+        <h2 style="color: red; font-family: Arial;">Spanish Vocabulary</h2>
+        <h3 style="background: darkgreen; font-family: Courier New;">Easy</h3>
+        <p> - el abrigo, el lazo, las agujetas, el overol</p>
+        <h3 style="background: khaki;">Good</h3>
+        <p> - los huevos revueltos, el bastoncillo, los pantalones</p>
+        <h3 style="background: pink;"></h3>
+        <p> - los desarrolladores, los calcetines</p>
+    </body>
+</html>
