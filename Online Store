@@ -1,0 +1,52 @@
+<!-- Modern Design Furniture Store -->
+
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <h2>Fast Furniture</h2>
+        <div>
+            <img src="/img/minimalist-living-room.png">
+            <img src="/img/modern-living-room.png">
+            <img src="/img/cozy-living-room.png">
+        </div>
+        <button>Open Catalogue</button>
+        <p>All furniture made for fast shipping and easy assemply!</p>
+    </body>
+</html>
+
+<!-- CSS Style -->
+body {
+    <text-align: center;
+}
+
+h2 {
+    background-color: aliceBlue;
+    margin: 40px 30px 30px 30px;
+    border-radius: 0 30px 30px 0; 
+}
+
+img {
+    background-color: lightBlue;
+    width: 100px;
+    padding: 10px;
+    margin: 10px 5px 0 5px;
+    border-radius: 20px;
+}
+
+button {
+    background-color: darkcyan;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    margin-top: 25px;
+    border-radius: 0 30px 30px 0;
+}
+
+p {
+    background-color: aliceblue;
+    padding: 5px 10px 5px 10px;
+    margin: 30px 30px 0 30px;
+    border-radius: 15px 0 15px 0;
+}
